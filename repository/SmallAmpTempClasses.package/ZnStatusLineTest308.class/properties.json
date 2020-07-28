@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnStatusLineTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ZnStatusLineTest308",
+	"type" : "normal"
+}

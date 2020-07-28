@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnResourceMetaUtilsTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ZnResourceMetaUtilsTest103",
+	"type" : "normal"
+}

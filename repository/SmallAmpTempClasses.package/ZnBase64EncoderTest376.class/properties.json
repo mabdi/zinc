@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnBase64EncoderTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ZnBase64EncoderTest376",
+	"type" : "normal"
+}

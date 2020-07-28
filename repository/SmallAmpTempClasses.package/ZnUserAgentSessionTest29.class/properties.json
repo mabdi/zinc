@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnUserAgentSessionTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ZnUserAgentSessionTest29",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnHeadersTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ZnHeadersTest459",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnMultiValueDictionaryTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ZnMultiValueDictionaryTest208",
+	"type" : "normal"
+}

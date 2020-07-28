@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnDigestAuthenticatorTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ZnDigestAuthenticatorTest36",
+	"type" : "normal"
+}

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "ZnBufferedReadWriteStreamTest",
+	"category" : "SmallAmpTempClasses",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "ZnBufferedReadWriteStreamTest419",
+	"type" : "normal"
+}
