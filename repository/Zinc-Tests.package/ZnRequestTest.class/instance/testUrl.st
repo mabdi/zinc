@@ -7,6 +7,11 @@ testUrl
 	self assert: request url equals: url.
 	self assert: request relativeUrl equals: url asRelativeUrl.
 	self assert: request absoluteUrl equals: url.
+	self assert: request isHttp11.
+	self deny: request isHttp10.
+	self assert: request accept equals: '*/*'.
+	self deny: request acceptsEncodingGzip.
+	self deny: request wantsConnectionClose.
 	url := 'http://foo.com/foo.html' asZnUrl.
 	input := 'GET /foo.html HTTP/1.1' , String crlf , 
 		'Host: foo.com' , String crlf , 
