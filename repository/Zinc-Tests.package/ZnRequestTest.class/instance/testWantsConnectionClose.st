@@ -1,9 +1,7 @@
 tests
 testWantsConnectionClose
-	| aZnRequest |
-	aZnRequest := ZnRequest new.
+	self deny: ZnRequest empty wantsConnectionClose.
 	self
-		should: [ aZnRequest wantsConnectionClose ]
-		raise: MessageNotUnderstood. "#isHttp10 was sent to nil"
-	aZnRequest := ZnRequest empty.
-	self deny: aZnRequest wantsConnectionClose
+		should: [ ZnRequest new wantsConnectionClose ]
+		raise: MessageNotUnderstood "#isHttp10 was sent to nil"
+	

@@ -1,5 +1,4 @@
 testing
 testCurrentRealm
-	self
-		assert: (ZnUserAgentSession withCookieJar: ZnCookieJar new) currentRealm isNil.
+	self assert: (ZnUserAgentSession withCookieJar: ZnCookieJar new) currentRealm isNil.
 	
